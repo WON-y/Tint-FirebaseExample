@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165270224848",
+    "project_id": "tint-test-70482",
+    "storage_bucket": "tint-test-70482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165270224848:android:96168ff68c47e55cd683d5",
+        "android_client_info": {
+          "package_name": "com.example.firebaselistexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165270224848-4k2q833orh5kef9c68n9j59cnp91qs4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbHaSpuW4qVDtA1hnP2O_A8-_d6Pi0Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165270224848-4k2q833orh5kef9c68n9j59cnp91qs4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
